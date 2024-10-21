@@ -8,9 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IncrementalGenerator\IncrementalGenerator.csproj"
-					  ReferenceOutputAssembly ="false"
-					  OutputItemType ="Analyzer"/>
+    <ProjectReference Include="..\IncrementalGenerator\IncrementalGenerator.csproj" ReferenceOutputAssembly="false" OutputItemType="Analyzer" />
   </ItemGroup>
 
 </Project>
